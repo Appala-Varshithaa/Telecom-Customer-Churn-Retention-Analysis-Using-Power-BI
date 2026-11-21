@@ -38,17 +38,21 @@ The main objective is to understand customer behaviour, identify churn patterns,
 ## Calculated Measures
 
 <img width="360" height="50" alt="image" src="https://github.com/user-attachments/assets/543e18ea-76bf-46e7-b4da-b854c29d6aca" />
+
 <img width="332" height="47" alt="image" src="https://github.com/user-attachments/assets/1998d4e4-0316-4c1f-ab87-abc0b2c45d58" />
+
 <img width="355" height="46" alt="image" src="https://github.com/user-attachments/assets/3f604e61-4197-45f7-aa92-7fff79b63201" />
+
 <img width="215" height="137" alt="image" src="https://github.com/user-attachments/assets/14189102-6205-4d1e-ad36-8f1f43e3690a" />
+
 <img width="302" height="112" alt="image" src="https://github.com/user-attachments/assets/2995518d-60f2-433c-98db-2bc9f5718375" />
+
 <img width="300" height="113" alt="image" src="https://github.com/user-attachments/assets/5a059937-73e4-4bd2-b8fd-b4e8b0905189" />
+
 <img width="267" height="132" alt="image" src="https://github.com/user-attachments/assets/51fdcc4b-4b6d-4d56-ad5b-1b8b31fbeb4f" />
+
 <img width="422" height="46" alt="image" src="https://github.com/user-attachments/assets/cc747425-59b2-4965-811a-13131adc2552" />
-<img width="487" height="112" alt="image" src="https://github.com/user-attachments/assets/4f867f64-da10-4a31-abda-4549e84748b0" />
-<img width="442" height="111" alt="image" src="https://github.com/user-attachments/assets/48e70381-27b5-48b6-843e-c9db9783290a" />
-<img width="465" height="112" alt="image" src="https://github.com/user-attachments/assets/59ed6e98-b76b-4156-9ebe-6f7a79b4cfeb" />
-<img width="432" height="42" alt="image" src="https://github.com/user-attachments/assets/72544520-24cf-4d74-8dc3-18f69e26bf4f" />
+
 
 ## Dashboard Pages
 
