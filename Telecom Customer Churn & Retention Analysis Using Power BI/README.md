@@ -37,20 +37,21 @@ The main objective is to understand customer behaviour, identify churn patterns,
 
 ## Calculated Measures
 
-<img width="360" height="50" alt="image" src="https://github.com/user-attachments/assets/543e18ea-76bf-46e7-b4da-b854c29d6aca" />                                                                                                                                                                                                     <img width="332" height="47" alt="image" src="https://github.com/user-attachments/assets/1998d4e4-0316-4c1f-ab87-abc0b2c45d58" />
+<img src="https://github.com/user-attachments/assets/543e18ea-76bf-46e7-b4da-b854c29d6aca" width="360" alt="Image 1">
 
-<img width="355" height="46" alt="image" src="https://github.com/user-attachments/assets/3f604e61-4197-45f7-aa92-7fff79b63201" />
+<img src="https://github.com/user-attachments/assets/1998d4e4-0316-4c1f-ab87-abc0b2c45d58" width="332" alt="Image 2">
 
-<img width="215" height="137" alt="image" src="https://github.com/user-attachments/assets/14189102-6205-4d1e-ad36-8f1f43e3690a" />
+<img src="https://github.com/user-attachments/assets/3f604e61-4197-45f7-aa92-7fff79b63201" width="355" alt="Image 3">
 
-<img width="302" height="112" alt="image" src="https://github.com/user-attachments/assets/2995518d-60f2-433c-98db-2bc9f5718375" />
+<img src="https://github.com/user-attachments/assets/14189102-6205-4d1e-ad36-8f1f43e3690a" width="215" alt="Image 4">
 
-<img width="300" height="113" alt="image" src="https://github.com/user-attachments/assets/5a059937-73e4-4bd2-b8fd-b4e8b0905189" />
+<img src="https://github.com/user-attachments/assets/2995518d-60f2-433c-98db-2bc0b2c45d58" width="302" alt="Image 5">
 
-<img width="267" height="132" alt="image" src="https://github.com/user-attachments/assets/51fdcc4b-4b6d-4d56-ad5b-1b8b31fbeb4f" />
+<img src="https://github.com/user-attachments/assets/5a059937-73e4-4bd2-b8fd-b4e8b0905189" width="300" alt="Image 6">
 
-<img width="422" height="46" alt="image" src="https://github.com/user-attachments/assets/cc747425-59b2-4965-811a-13131adc2552" />
+<img src="https://github.com/user-attachments/assets/51fdcc4b-4b6d-4d56-ad5b-1b8b31fbeb4f" width="267" alt="Image 7">
 
+<img src="https://github.com/user-attachments/assets/cc747425-59b2-4965-811a-13131adc2552" width="422" alt="Image 8">
 
 ## Dashboard Pages
 
