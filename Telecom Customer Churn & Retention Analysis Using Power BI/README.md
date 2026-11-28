@@ -37,9 +37,7 @@ The main objective is to understand customer behaviour, identify churn patterns,
 
 ## Calculated Measures
 
-<img width="360" height="50" alt="image" src="https://github.com/user-attachments/assets/543e18ea-76bf-46e7-b4da-b854c29d6aca" />
-
-<img width="332" height="47" alt="image" src="https://github.com/user-attachments/assets/1998d4e4-0316-4c1f-ab87-abc0b2c45d58" />
+<img width="360" height="50" alt="image" src="https://github.com/user-attachments/assets/543e18ea-76bf-46e7-b4da-b854c29d6aca" />                                                                                                                                                                                                     <img width="332" height="47" alt="image" src="https://github.com/user-attachments/assets/1998d4e4-0316-4c1f-ab87-abc0b2c45d58" />
 
 <img width="355" height="46" alt="image" src="https://github.com/user-attachments/assets/3f604e61-4197-45f7-aa92-7fff79b63201" />
 
